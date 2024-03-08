@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.12.0",
+    "heartbeatAt": "2024-03-08T18:34:14.451295",
+    "startedAt": "2024-03-08T18:34:05.818264",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/CarrotBRRR/ENSF-444-Labs.git",
+        "commit": "a59d39dd6f81ecc76df92f4436fc8ce46085d6cd"
+    },
+    "email": "69835046+CarrotBRRR@users.noreply.github.com",
+    "root": "C:/Users/dominic/Desktop/Schoolwork/2024_Q1_Winter/Labs/ENSF-444-Labs",
+    "host": "ROG",
+    "username": "dominic",
+    "executable": "c:\\Python312\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3201.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3201.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 476.32677459716797,
+            "used": 367.8736381530762
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.405460357666016
+    }
+}
